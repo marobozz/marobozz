@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 :computer: Sistems engineer
-:magnifying glass: Manual and automation tester
+:magnifyingglass: Manual and automation tester
 Geek
 
 ### Contacto
