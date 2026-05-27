@@ -6,6 +6,6 @@
 
 ### Contact
 
-![website](https://img.shields.io/website?url=https://www.linkedin.com/in/mauriciochavezlopez&up_color=blue&style=for-the-badge&label=LinkedIn&labelColor=blue)
+![website](https://www.linkedin.com/in/mauriciochavezlopez)
 
 
