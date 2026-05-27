@@ -6,6 +6,5 @@
 
 ### Contact
 
-![LinkedIn](https://www.linkedin.com/in/mauriciochavezlopez)
 
 
